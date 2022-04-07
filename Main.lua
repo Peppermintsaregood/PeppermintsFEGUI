@@ -378,5 +378,8 @@ end)
 addCard("FE brookhaven admin", function()
 		loadstring(game:HttpGet("https://gist.githubusercontent.com/testttbqwebg/adc0db730f5dfca0d8dbdb81f3b65391/raw/b0443888c4399af5a297cb1100a4749c65705711/qweqw", true))()
 end)
+addCard("FE Size changer", function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/nSM6JfJc", true))()	
+end)
 -- end
 Template:Remove()
