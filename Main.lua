@@ -372,5 +372,8 @@ end)
 addCard("Fe head dancer", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/PeppermintsFEGUI/95088a7fc146c5fd5cf571670e7ba99fb79311ce/HeadDancerReadFrom", true))()
 end)
+addCard("Fe animations gui(r15 + r6)", function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/RmD3qNp7", true))()
+end)
 -- end
 Template:Remove()
