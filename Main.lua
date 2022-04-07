@@ -384,5 +384,8 @@ end)
 addCard("FE Creeper", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/PeppermintsFEGUI/main/Creeper.lua", true))()
 end)
+addCard("FE wierd spider shit", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/PeppermintsFEGUI/main/Spider.lua", true))()	
+end)
 -- end
 Template:Remove()
