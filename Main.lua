@@ -375,5 +375,8 @@ end)
 addCard("Fe animations gui(r15 + r6)", function()
 	loadstring(game:HttpGet("https://pastebin.com/raw/RmD3qNp7", true))()
 end)
+addCard("FE brookhaven admin", function()
+		loadstring(game:HttpGet("https://gist.githubusercontent.com/testttbqwebg/adc0db730f5dfca0d8dbdb81f3b65391/raw/b0443888c4399af5a297cb1100a4749c65705711/qweqw", true))()
+end)
 -- end
 Template:Remove()
