@@ -370,7 +370,7 @@ local poop = nil
 end)
 end)
 addCard("Fe head dancer", function()
-    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/PeppermintsFEGUI/95088a7fc146c5fd5cf571670e7ba99fb79311ce/HeadDancerReadFrom", true))()
 end)
 -- end
 Template:Remove()
