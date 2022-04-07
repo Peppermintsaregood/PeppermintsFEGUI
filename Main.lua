@@ -381,5 +381,8 @@ end)
 addCard("FE Size changer", function()
 	loadstring(game:HttpGet("https://pastebin.com/raw/nSM6JfJc", true))()	
 end)
+addCard("FE Creeper", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/PeppermintsFEGUI/main/Creeper.lua", true))()
+end)
 -- end
 Template:Remove()
